@@ -1,4 +1,4 @@
-# Deepfucius
+# Deepfucius: https://twitter.com/deepfucius
 A basic LSTM RNN twitter bot for non-election altering use
 
 Inspired by Jason Brownlee's blog posts https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/
