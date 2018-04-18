@@ -16,3 +16,5 @@ Blog post is on its way.
 Future versions to include:
 1. Beam search implementation in text generation
 2. Different model architectures
+3. Interactions with other users in the Twittersphere
+4. Generate topical responses to tweets abt Confucius and DM or @users
